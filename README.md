@@ -1,3 +1,8 @@
+# TL'DR
+`python fetch_data.py users <handle_without_@> --auth oauth2-bearer`
+example
+`python fetch_data.py users macilias --auth oauth2-bearer --run-http-server`
+
 # twitter-graph
 
 I spend a lot of time on Twitter, and over the years I have been following a wide variety of people: old friends, work colleagues, funny accounts, etc.
